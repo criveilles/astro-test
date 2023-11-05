@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "C:/xampp/htdocs"
+		},
+		{
+			"path": "E:/Dropbox/職業訓練/55インターン"
+		},
+		{
+			"path": "E:/Dropbox/職業訓練/自主制作練習/practice01"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "site"
+	}
+}
